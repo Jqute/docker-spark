@@ -58,4 +58,4 @@ val textFile = sc.textFile("/home/helloworld.txt")
 textFile.count() 
 ```
 
-heck the WebUI for master (localhost:8080) and worker (localhost:8081) to check the job details.
+heck the WebUI for master (localhost:8080) and worker (localhost:8081) to check the job details. Also localhost:4041 to check the job stages.
